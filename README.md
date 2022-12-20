@@ -75,11 +75,11 @@
 
 
 ## 𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁𝘀  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=portilloJair&theme=dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ederromero28&theme=dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" align="center" /></div>
 
 <br/>  
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=portilloJair&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ederromero28&&style=flat-square" align="center" />
 </div>

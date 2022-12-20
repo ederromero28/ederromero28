@@ -79,11 +79,6 @@
 
 <br/>  
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2gx1dmeyoo87p1zm0cc6asow7&cover_image=true&theme=default&show_offline=false&background_color=242424&bar_color=5cbd28&bar_color_cover=false" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=portilloJair&&style=flat-square" align="center" />

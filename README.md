@@ -64,10 +64,10 @@
 
 
 ## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲 
-<a href="https://github.com/portilloJair" target="_blank">
+<a href="https://github.com/ederromero28" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-<a href="mailto:portillojair@gmai.com">
+<a href="mailto:ederromero32@gmai.com">
 <img src=https://img.shields.io/badge/Gmail-%2324292e.svg?&style=for-the-badge&logo=Gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
 </a>  
 
